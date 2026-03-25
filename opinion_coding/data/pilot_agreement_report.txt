@@ -1,0 +1,21 @@
+# Pilot agreement: AI aggregate vs human
+
+## efficiency_1_9
+- n = 8
+- mean absolute error = 1.500
+- Pearson r = 0.577
+
+## corrective_1_9
+- n = 8
+- mean absolute error = 1.000
+- Pearson r = 0.875
+
+## distributive_1_9
+- n = 8
+- mean absolute error = 1.000
+- Pearson r = 0.814
+
+## formalist_functionalist_1_9
+- n = 8
+- mean absolute error = 1.625
+- Pearson r = 0.167

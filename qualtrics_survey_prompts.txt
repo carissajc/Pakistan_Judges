@@ -1,0 +1,278 @@
+================================================================================
+PAKISTAN JUDGES STUDY — QUALTRICS SURVEY PROMPTS (TEXT EXPORT)
+================================================================================
+Compiled for coding / AI alignment work. Section titles added for navigation.
+
+--------------------------------------------------------------------------------
+INTRODUCTION — REAL MONEY ALLOCATION (PREAMBLE)
+--------------------------------------------------------------------------------
+
+In this part of the study, you will participate in a research activity in which you will decide how to distribute real money between two Pakistani citizens. This is not a survey asking your opinions. Instead, you'll be making decisions about how to distribute significant sums of real money to real people.
+
+We are collaborating with the Centre for Research and Economic Development (CRED) to facilitate these payments. The recipients will be randomly selected from a list of over two million individuals from Punjab. This list, managed by CRED, contains detailed information about their backgrounds and financial situations. The average pre-tax income within this group is 45,000 rupees per month.
+
+Please click the NEXT button below to proceed to the next screen.
+
+--------------------------------------------------------------------------------
+PART A — THE DECISION PROBLEM (INSTRUCTIONS)
+--------------------------------------------------------------------------------
+
+The decision problem
+
+This part of the study consists of two phases, each comprising 10 decision problems. In each problem, you will allocate rupees between two Pakistani citizens, labeled X and Y. Each decision will be represented by a graph (as in the example on the next screen). For each decision problem, you will be asked to select a point along a line that represents the possible divisions of money between citizens X and Y. The amount that you give to citizen X will be represented on the horizontal axis, and the amount that you give to citizen Y on the vertical axis.
+
+We note that thousands of individuals from various countries—including groups of law students, medical students, physicians, and high-level civil servants—have participated in similar research activities. This research activity helps us understand how people make decisions about sharing resources, building on what we have learned from earlier research studies.
+
+Please click the NEXT button below to proceed to the next screen.
+
+--------------------------------------------------------------------------------
+EXAMPLES OF DECISION PROBLEMS
+--------------------------------------------------------------------------------
+
+Each decision problem begins with the computer randomly selecting a downward-sloping line from a set of lines that intersect one axis—X or Y—below 500 rupees, and the other between 500 and 1000 rupees. Below are examples of possible lines, varying in slope: steep (left), intermediate (middle), and flat (right).
+
+[Graph examples referenced in survey UI]
+
+Using your mouse, you may select any point (X, Y) along the line. This point determines the amount of money allocated to the two citizens, X and Y. Importantly, when the line is steep, you can potentially allocate more money to citizen Y; when the line is flat, you can potentially allocate more to citizen X. The slope of the line shows the rate at which money must be taken from one citizen to increase the payment to the other: A steeper slope means that increasing Y's payment requires only a smaller reduction in X's payment. Conversely, a flatter slope means that increasing X's payment requires only a smaller reduction in Y's payment.
+
+Each decision problem is independent—your previous choices do not influence the lines selected in problems that follow. For each decision, you may choose any (X, Y) pair on the line, thereby determining the allocation of money between citizens X and Y. Keep in mind that because the line is downward sloping, increasing the payout to citizen X necessarily reduces the amount allocated to citizen Y, and vice versa.
+
+Please click the NEXT button below to proceed to the next screen.
+
+--------------------------------------------------------------------------------
+HOW TO SELECT A POINT
+--------------------------------------------------------------------------------
+
+In each decision problem, you may select any (X, Y) pair on the line. For example, as illustrated below, Choice A corresponds to allocating q rupees to person X and r rupees to person Y. Similarly, Choice B reflects an allocation of w rupees to person X and z rupees to person Y.
+
+To make your selection, move the mouse cursor to the desired allocation point on the screen. The computer will restrict your choices to combinations that fall directly on the line. When you are ready, left-click to enter your chosen allocation. You will then be prompted to confirm your decision. Once confirmed, your choice is final and cannot be revised.
+
+[Illustration referenced in survey UI]
+
+Please click the NEXT button below to proceed to the next screen.
+
+--------------------------------------------------------------------------------
+PHASES, PAYMENTS, AND RECIPIENT POOLS
+--------------------------------------------------------------------------------
+
+You are now about to begin the activity. It consists of two phases. Each consists of 10 independent decision problems as described above, in which you will allocate money between two citizens, X and Y. At the end of each phase, one round will be randomly selected, and the amounts that you chose in that round will actually be paid out. In the selected decision problem, one randomly chosen Pakistani citizen will receive the amount allocated to person X, and another randomly chosen Pakistani citizen will receive the amount allocated to person Y.
+
+The two phases differ in the types of Pakistani citizens X and Y that will be chosen as recipients. In Phase 1, both individuals are drawn from the general sample of Pakistani citizens, which has an average pre-tax monthly income of 45,000 rupees. In Phase 2, person Y is randomly selected from those with pre-tax monthly income above 65,000 rupees, while person X is selected from those with a pre-tax monthly income below 25,000 rupees.
+
+There are no right or wrong choices. But please think carefully about your allocations, since real money will be given to two people based on each selected decision.
+
+Please click the NEXT button below to proceed to the next screen.
+
+--------------------------------------------------------------------------------
+TWO PRACTICE ROUNDS
+--------------------------------------------------------------------------------
+
+Before proceeding to the activity, you will have the opportunity to make two practice decisions. To select an allocation, use your mouse to move the cursor to your desired x and y point on the line. Since these are practice rounds, your choices will not affect the payoffs for the two individuals. The next screen may take a moment to load, so please be patient and avoid refreshing the browser.
+
+Please click the NEXT button below to enter the first practice round.
+
+By selecting this point on the line, you allocated X rupees to person X and Y rupees to person Y.
+
+Please click the NEXT button below to enter the second practice round.
+
+By selecting this point on the line, you allocated Y rupees to person Y and X rupees to person X.
+
+--------------------------------------------------------------------------------
+PHASE 1 — MAIN TASK (10 ROUNDS)
+--------------------------------------------------------------------------------
+
+You will now start the first phase of this part of the activity. Recall that in this phase you will make 10 independent decisions, in which you will allocate money between two Pakistani citizen , X and Y, randomly chosen from a sample with an average pre-tax income of 45,000 rupees. At the end of this phase, one of the 10 decision problems will be randomly selected and the amounts you have chosen will be paid out.
+
+The next screen may take a moment to load. Please be patient and do not refresh your browser. At the end of this phase, you will receive further instructions. If everything is clear, click NEXT to proceed to phase 1 of the activity.
+
+[Repeated after each allocation in Phase 1 — examples of feedback text:]
+By selecting this point on the line, you allocated Y rupees to person Y and X rupees to person X
+By selecting this point on the line, you allocated [piped: Y] rupees to person Y and X rupees to person X.
+(Note: Original Qualtrics text included "3Y3" — likely a piped-text or display error; confirm in live survey.)
+
+[10 rounds of allocation task]
+
+--------------------------------------------------------------------------------
+PART 2 — LEGAL CASES (VIGNETTES)
+--------------------------------------------------------------------------------
+
+The next (second) part of the study examines how you make decisions in legal cases. We have designed four cases that involve high conflicts among fundamental societal values that can arise in the context of legal disputes. To understand how you would rule on these cases if they were presented in your court, this section includes one open-ended question followed by multiple-choice questions.
+
+You may skip the open-ended question, but the multiple-choice questions must be answered in order to proceed. That said, your thoughtful responses to the open-ended question are extremely valuable to our research, and we would greatly appreciate your insights.
+
+--------------------------------------------------------------------------------
+CASE 1 — THE SHANGLA WOOD DISPUTE
+--------------------------------------------------------------------------------
+
+A businessman in Lahore hired a builder to construct a new house. The businessman moved to the city from a village in the Shangla District when he was young and still feels a strong connection to his childhood home. He wants his new house to reflect his roots, so he insisted that it be made using wood from his village. The contract with the builder states that all wood must come from the Shangla District. If any other wood is used, it must be replaced with the correct wood. However, due to a mistake, the builder used imported wood instead. This mistake went unnoticed until the house was finished because the two types of wood look the same. The only way to fix this error is for the house to be torn down and rebuilt with the correct wood. The businessman has sued the builder to get money for the cost of tearing down and rebuilding the house. But because the woods are the same, the mistake did not change the house's market value. The builder admits he breached the contract but argues that he should not pay any damages because the mistake has not reduced the market value of the house.
+
+What remedy should the court order?
+
+If you had to choose from the following menu of remedies, which would you choose? Please check the box next to the remedy that you would award.
+
+- The total cost to knock down the current house and build a new one with wood from the Shangla District.
+- The difference in value between the house as it is and what it would have been worth if made with Shangla wood, which is zero.
+- The court's best guess of how much money it would take to compensate the businessman for his disappointment at not having a house made with Shangla wood.
+- The money saved by the builder for using imported wood instead of Shangla wood.
+
+Leave aside what you think is the best solution. How appropriate do you think it would be to settle the case in these ways? Please check the box below the answer you choose.
+
+For each remedy below, scale: Very appropriate / Appropriate / Neither appropriate nor inappropriate / Inappropriate / Very inappropriate
+
+- The total cost to knock down the current house and build a new one with wood from the Shangla District.
+- The difference in value between the house as it is and what it would have been worth if made with Shangla wood, which is zero.
+- The court's best guess of how much money it would take to compensate the businessman for his disappointment at not having a house made with Shangla wood.
+- The money saved by the builder for using imported wood instead of Shangla wood.
+
+--------------------------------------------------------------------------------
+CASE 2 — THE CEMENT FACTORY DISPUTE
+--------------------------------------------------------------------------------
+
+A new cement factory has opened near limestone hills and sandy riverbeds to take advantage of the nearby materials needed for cement. The factory cost 3 billion PKR to build. The factory is very productive, making 50,000 tons of cement each year, and it earns profits of 150 million PKR a year. It employs over 1000 people. However, even though the factory uses the best available dust control measures, the dust from the factory has made some nearby tomato farms unusable. These farms have been family-run for many generations, but together they only earn 3 million PRK a year and employ 30 people. The farm owners have sued the cement factory, claiming that the dust constitutes a nuisance.
+
+How should the court decide the case? If you had to choose from the following menu of decisions, which would you choose? Please check the box next to the remedy that you would award.
+
+- The cement factory does not constitute a nuisance.
+- The cement factory constitutes a nuisance, and the remedy is damages for the economic loss that the dust imposes on the farm-owners.
+- The cement factory constitutes a nuisance, and the remedy is an injunction halting the factory's operation.
+
+Leaving aside which you think is the best remedy, how appropriate do you think it would be to resolve the case by ruling in each of these ways? Please check the box below the answer you choose.
+
+For each option below, scale: Very appropriate / Appropriate / Neither appropriate nor inappropriate / Inappropriate / Very inappropriate
+
+- The cement factory does not constitute a nuisance.
+- The cement factory constitutes a nuisance, and the remedy is damages for the economic loss that the dust imposes on the farm-owners.
+- The cement factory constitutes a nuisance, and the remedy is an injunction halting the factory's operation.
+
+--------------------------------------------------------------------------------
+CASE 3 — THE BUS CRASH COMPENSATION CASE
+--------------------------------------------------------------------------------
+
+A bus crashed, hurting everyone inside. It was found that the crash happened because the brakes were broken, and the brakes failed because the bus company did not take care of them properly. The bus company has been closed down, and its money has been put into a fund used to compensate the people hurt in the crash.
+
+How should the court distribute the fund? If you had to choose from the following menu of rules for allocating the fund, which would you choose? Please check the box next to the remedy that you would award.
+
+- So that those who have the most serious medical injury get the most.
+- So that those who lost the most wages get the most.
+- So that those whose injuries can be cured by expensive medical care get more compensation than those whose injuries are incurable.
+
+Leaving aside which you think is the best remedy, how appropriate do you think it would be to resolve the case by ruling in each of these ways? Please check the box below the answer you choose.
+
+For each rule below, scale: Very appropriate / Appropriate / Neither appropriate nor inappropriate / Inappropriate / Very inappropriate
+
+- So that those who have the most serious medical injury get the most
+- So that those who lost the most wages get the most
+- So that those whose injuries can be cured by expensive medical care get more compensation than those whose injuries are incurable
+
+--------------------------------------------------------------------------------
+CASE 4 — PROPORTIONALITY IN TRESPASS
+--------------------------------------------------------------------------------
+
+A developer built a new office tower on land he bought. Before building, he hired a surveyor to check the land boundaries. The surveyor was reputable and took reasonable care, but he made a small mistake, and if the tower was built as planned, it would extend 10 cm into a nearby parking lot owned by a shopping mall. The developer found out about the mistake after getting the building plans approved. Changing the building now would take 6 months and cost an extra 10%. Since the slight overlap didn't affect the mall or parking lot, the developer decided to keep building. Six months later, after the offices were filled with businesses, the mall owner found out about the overlap and sued the developer. The mall owner is asking the court to enjoin the developer's trespass. The only way to eliminate the trespass would be to tear down the office tower and move it 10 cm, which would cost 20 million PKR for the developer and disrupt the office workers.
+
+How should the court decide the case?
+
+Leaving aside which you think is the best remedy, how appropriate do you think it would be to resolve the case by ruling in each of these ways? Please check the box below the answer you choose.
+
+For each option below, scale: Very appropriate / Appropriate / Neither appropriate nor inappropriate / Inappropriate / Very inappropriate
+
+- The developer did not commit a trespass.
+- The developer committed a trespass, and the remedy is the reduction in value of the mall and its parking lot, which is zero.
+- The developer committed a trespass, and the remedy is an injunction to tear down the office tower and move it to eliminate the encroachment.
+- The developer committed a trespass, and the remedy is disgorgement of the construction costs saved by the decision to build rather than redesigning the building and getting renewed planning permission.
+
+--------------------------------------------------------------------------------
+PART 3 — QUESTIONNAIRE (RESOURCE ALLOCATION & BELIEFS)
+--------------------------------------------------------------------------------
+
+The last (third) part of the study is a survey designed to assess your approach to allocating resources among individuals. You will be asked to respond to multiple-choice questions using a 1–10 scale, where 1 represents "Strongly Disagree" and 10 represents "Strongly Agree" or 1 represents "Least Important" and 10 represents "Most Important" There are no right or wrong answers—your responses simply reflect your personal views.
+
+--------------------------------------------------------------------------------
+FRAMING — DISTRIBUTION PRINCIPLES
+--------------------------------------------------------------------------------
+
+Some argue that a society's primary goal should be to ensure equal distribution of income and opportunity—even if it comes at the expense of maximizing overall wealth. Others contend that it is better to allocate resources in a way that generates the greatest total wealth, even if that wealth is distributed unequally. Imagine that you were free to distribute resources in your society across people. Which of the principles below do you think are important?
+
+Scale for each (1 = Least important … 10 = Most important):
+
+- Distributing resources equally
+- Giving the most resources to the people or groups most in need
+- Giving the most resources to the people or groups who would use them in the most productive ways
+
+--------------------------------------------------------------------------------
+EDUCATION / OPPORTUNITY
+--------------------------------------------------------------------------------
+
+One type of resource that can be distributed is opportunity—particularly through education. When allocating resources across schools and universities, how important do you think it is to provide:
+
+Scale for each (1 = Least important … 10 = Most important):
+
+- Equal educational opportunity for everyone
+- Give the most opportunity to students who come from disadvantaged backgrounds
+- Give the most opportunity to students who are the most likely to be successful and productive
+
+--------------------------------------------------------------------------------
+MARKETS — AGREEMENT SCALE
+--------------------------------------------------------------------------------
+
+One mechanism for promoting overall wealth in society is to allow free markets, where individuals with more skills or who work harder tend to accumulate more wealth. However, free markets often result in unequal distribution of wealth across the population. Next, please indicate your level of agreement or disagreement with the following statements about markets.
+
+Scale for each (1 = Disagree strongly … 10 = Agree strongly):
+
+- The most desirable economic system is one in which everyone is allowed to independently pursue their own economic interests
+- In a free market system people generally get the outcomes that they deserve
+- The people with the most talent should receive the highest incomes because this encourages overall productivity and growth in a society
+- Even if markets produce inequality everyone in society is better off because they benefit from the higher level of wealth that market systems produce in a society.
+- Allowing free markets is the best way to maximize long term growth and productivity in a society.
+- A society should aim for equality of opportunity, not equality of outcomes.
+- The government should not be allowed to favor any one person or group of people over others.
+- Everyone should have an opportunity for their own talents and efforts to take them as far as they can go in their life.
+- Free markets give everyone the opportunity to do well by working hard
+- In market economies the level of inequality far exceeds what is needed to encourage people to work hard and save money
+- It is better to emphasize equality of outcomes even if it means less growth and productivity in a society
+- Maximizing social harmony through equality is more important in a society than maximizing growth by allowing unequal outcomes.
+
+--------------------------------------------------------------------------------
+WEALTH — DRIVERS (IMPORTANCE SCALE)
+--------------------------------------------------------------------------------
+
+Why are some people wealthy while others are poor? Wealth is shaped by a complex interplay of individual choices and broader societal factors. The next four questions ask how important you think different factors are in an individual becoming wealthy.
+
+Scale for each (1 = Not at all important … 10 = Extremely important):
+
+- Personal drive, willingness to take risks.
+- Money inherited from families.
+- Hard work and initiative.
+- The race or class into which one is born.
+
+--------------------------------------------------------------------------------
+POVERTY — DRIVERS (IMPORTANCE SCALE)
+--------------------------------------------------------------------------------
+
+To conclude this last part of the study, the next four questions ask how important you believe different factors are in contributing to an individual becoming poor rather than wealthy.
+
+Scale for each (1 = Not at all important … 10 = Extremely important):
+
+- Lack of thrift and proper money-management skills.
+- Lack of effort.
+- Lack of ability and talent.
+- Societal barriers to individual achievement.
+
+--------------------------------------------------------------------------------
+CLOSING / DEBRIEF / FEEDBACK
+--------------------------------------------------------------------------------
+
+Thank you very much for your participation -- this marks the conclusion of the study. All collected data have been securely stored and will be de-identified before analysis. No personally identifiable information will be included in any publications resulting from this research. Your responses are deeply valuable to our work, and the study's success depends on broad participation from your colleagues. Once we have reached our target sample size, we will analyze the data and share the results with you.
+
+We would greatly appreciate any feedback you may have on the study—please share your thoughts in the text box below. Based on the feedback received, one participant will be invited to join a seminar on Global Perspectives on Private Law, to be held early next year in Lisbon, Portugal. The seminar will be co-hosted by Yale Law School, the Max Planck Institute for Comparative and International Private Law, Tulane Law School, and the Católica Global School of Law.
+
+[Open text: feedback]
+
+================================================================================
+END OF DOCUMENT
+================================================================================
+
+Notes for data mapping:
+- Stata do-file references sa009, sa011, sa013, sa015, sa028 for equality-efficiency composite (eq_focus). Map these to Qualtrics variable names using the survey export; this document preserves question order and wording only.
+- Phase 2 of the allocation task (higher-income Y vs lower-income X) is described in the payment instructions; confirm Phase 2 screen text if needed from Qualtrics.
+- Case 4 vignette: original paste said "enjoy" the trespass; legal term is typically "enjoin" (used above).

@@ -1,0 +1,35 @@
+[
+  {
+    "label": "efficiency_emphasis_civil",
+    "excerpt": "The court must weigh the substantial cost of demolishing the structure against the minimal harm suffered. A remedy that would destroy livelihoods and waste social resources cannot be proportionate when an adequate compensatory award restores the plaintiff without such waste.",
+    "scores": {
+      "efficiency_1_9": 8,
+      "corrective_1_9": 6,
+      "distributive_1_9": 4,
+      "formalist_functionalist_1_9": 7
+    },
+    "rationale": "Strong aggregate cost and proportionality language (efficiency); compensation as alternative (corrective); mild distributive hint (livelihoods); purposive balancing (functionalist)."
+  },
+  {
+    "label": "formalist_criminal_procedure",
+    "excerpt": "The charge is framed under section 381-A PPC. The prosecution must prove each ingredient beyond reasonable doubt. The learned trial court applied the correct standard. There is no need to revisit the settled interpretation of 'theft' in this provision.",
+    "scores": {
+      "efficiency_1_9": 2,
+      "corrective_1_9": 2,
+      "distributive_1_9": 1,
+      "formalist_functionalist_1_9": 3
+    },
+    "rationale": "Textual/statutory framing and standard of proof; no policy balancing—low functionalism and low justice-theory content beyond formal criminal law."
+  },
+  {
+    "label": "corrective_contract",
+    "excerpt": "The defendant breached the clear terms of the agreement. The plaintiff is entitled to be placed in the position he would have occupied had the contract been performed. Expectation damages restore the bilateral equilibrium disturbed by the wrong.",
+    "scores": {
+      "efficiency_1_9": 4,
+      "corrective_1_9": 9,
+      "distributive_1_9": 3,
+      "formalist_functionalist_1_9": 5
+    },
+    "rationale": "Classic corrective-justice framing (expectation, breach, restoration); modest efficiency; little distributive beyond parties."
+  }
+]
